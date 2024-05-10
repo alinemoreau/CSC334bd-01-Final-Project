@@ -22,7 +22,7 @@ The first thing I did was initialize lists to store the results and the data for
 ## Results
 ### Blood Volume Pulse
 Most of the results for the 11 patients resembled the results for patient 4 as pictured below:
-<img src= "https://imgur.com/a/IEpddbO" alt = "Patient 4 BVP results">
+<img src= "https://i.imgur.com/IhpITUg.png" alt = "Patient 4 BVP results">
 
 The values were as follows:
 ```
@@ -39,7 +39,7 @@ The average T-statistic for all patients was 0.6315543991724609 and the average 
 
 ### Electrodermal Activity
 In contrast to blood volume pulse, there was visually a difference in the box plot and histograms of the electrodermal activity.
-<img src= "https://imgur.com/a/AOVSNO5" alt = "Patient 3 EDA results">
+<img src= "https://i.imgur.com/hjz6rLg.png" alt = "Patient 3 EDA results">
 
 The values were as follows:
 ```
@@ -56,7 +56,7 @@ The average T-statistic for all patients was 37.80978896087567 and the average P
 
 ### Body Surface Temperature
 Similar to electrodermal activity, there was visually a difference in the box plot and histograms of the body surface temperatures. 
-<img src= "https://imgur.com/a/T20FuX6" alt = "Patient 3 EDA results">
+<img src= "https://i.imgur.com/erha2Ea.png" alt = "Patient 3 EDA results">
 
 The values were as follows:
 ```
